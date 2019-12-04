@@ -1,0 +1,10 @@
+#menu {
+  max-height: 70px;
+  ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+  }
+}
